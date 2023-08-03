@@ -7,7 +7,6 @@ import com.jonathan.carrasco.orderservice.model.Order;
 import com.jonathan.carrasco.orderservice.model.OrderLineItems;
 import com.jonathan.carrasco.orderservice.repository.OrderRespository;
 import lombok.RequiredArgsConstructor;
-import lombok.extern.log4j.Log4j;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.sleuth.Span;
 import org.springframework.cloud.sleuth.Tracer;

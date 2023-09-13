@@ -1,7 +1,7 @@
 //Spring Boot Microservice Project
 This repository contains a Spring Boot Microservice Project 
 
-Table of Contents
+Table of Contents:
 Introduction
 Project Overview
 Best Practices
@@ -9,13 +9,15 @@ Technologies Used
 Project Structure
 Features
 
-Introduction
+Introduction:
 This project is a microservices-based application developed using Spring Boot. It serves as a practical example of building a scalable and maintainable microservice architecture.
 
-Project Overview
+Project Overview:
 Several microservices are created and interconnected to form a complete system. Here's an overview of the key components and services covered:
 
-Microservices: The project consists of multiple microservices, each responsible for specific functionalities.
+Microservices:
+The project consists of multiple microservices, each responsible for specific functionalities.
+
 User Service: Manages user registration and authentication.
 Product Service: Handles product catalog and inventory management.
 Order Service: Manages customer orders and order processing.
@@ -31,7 +33,7 @@ Continuous Integration/Continuous Deployment (CI/CD): CI/CD pipelines (e.g., Jen
 Security: Spring Security and OAuth2 are implemented for securing microservices and user authentication.
 
 
-Best Practices
+Best Practices:
 The following best practices were demonstrated in the video tutorial:
 
 Microservices Design: Each microservice has a single responsibility and communicates via well-defined APIs.
@@ -45,7 +47,7 @@ CI/CD: Automated CI/CD pipelines ensure smooth testing and deployment.
 Security: Spring Security and OAuth2 are used for securing microservices and user authentication.
 
 
-Technologies Used
+Technologies Used:
 The project leverages the following technologies:
 
 Spring Boot: A Java-based framework for building microservices.
@@ -64,10 +66,10 @@ Git: Version control for source code management.
 
 Access the services, API documentation, and other resources based on the URLs and ports.
 
-Project Structure
+Project Structure: 
 The project is structured as a collection of microservices, each residing in its own directory. Each microservice typically follows a similar structure, including source code, configuration files, and Dockerfile for containerization.
 
-Features
+Features: 
 This microservices project showcases a range of features including user authentication, product management,order processing, payment handling, and more.
 
 

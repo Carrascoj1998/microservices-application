@@ -1,4 +1,4 @@
-##Spring Boot Microservice Project
+//Spring Boot Microservice Project
 This repository contains a Spring Boot Microservice Project 
 
 Table of Contents
@@ -8,7 +8,6 @@ Best Practices
 Technologies Used
 Project Structure
 Features
-g
 
 Introduction
 This project is a microservices-based application developed using Spring Boot. It serves as a practical example of building a scalable and maintainable microservice architecture.
